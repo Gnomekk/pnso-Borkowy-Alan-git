@@ -1,1 +1,2 @@
-# pnso-Borkowy-Alan-git
+# pnso-Borkowy-Alan-gitnowe zmiany
+w pliku
